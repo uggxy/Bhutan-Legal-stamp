@@ -1,0 +1,5 @@
+{
+  "name": "Bhutanese Legal Stamp Applicator",
+  "description": "An application to digitally apply a Bhutanese legal stamp onto PDF documents. Users can upload a PDF, position and resize the stamp on any page, and download the newly stamped document.",
+  "requestFramePermissions": []
+}
